@@ -1,0 +1,12 @@
+[package]
+name = "odrl"
+version = "0.1.1"
+edition = "2024"
+description = "An implementation of the Open Digital Rights Language (ODRL) in Rust"
+keywords = ["odrl"]
+license = "Apache-2.0"
+readme = "../../README.md"
+repository = "https://github.com/adiepenbrock/odrl-rs"
+homepage = "https://github.com/adiepenbrock/odrl-rs"
+
+[dependencies]
